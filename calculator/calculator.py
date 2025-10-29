@@ -18,6 +18,6 @@ def divide(a, b):
 
 if __name__ == "__main__":
     print(add(1, 2))
-    print(subtract(1, 2))
+    print(subtract(1, 5))
     print(multiply(1, 2))
     print(divide(1, 0))
